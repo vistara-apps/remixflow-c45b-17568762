@@ -1,0 +1,14 @@
+{
+  "name": "RemixFlow",
+  "description": "RemixFlow is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://c45bc727-9070-4bb6-b303-e00bde0eb033.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "RemixFlow",
+      "description": "RemixFlow is a Base Mini App built with Zara.",
+      "url": "https://c45bc727-9070-4bb6-b303-e00bde0eb033.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
