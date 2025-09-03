@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "RemixFlow is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://c45bc727-9070-4bb6-b303-e00bde0eb033.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://c45bc72790704bb6b303e00bde0eb033-r6h0-agn07e75e-vistara.vercel.app",
+    "splashImageUrl": "https://c45bc72790704bb6b303e00bde0eb033-r6h0-agn07e75e-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://c45bc72790704bb6b303e00bde0eb033-r6h0-agn07e75e-vistara.vercel.app/image.png",
     "tagline": "RemixFlow",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://c45bc72790704bb6b303e00bde0eb033-r6h0-agn07e75e-vistara.vercel.app/screenshot.png",
+      "https://c45bc72790704bb6b303e00bde0eb033-r6h0-agn07e75e-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://c45bc727-9070-4bb6-b303-e00bde0eb033.vistara.dev/api/webhook"
+    "webhookUrl": "https://c45bc72790704bb6b303e00bde0eb033-r6h0-agn07e75e-vistara.vercel.app/api/webhook"
   }
 }
